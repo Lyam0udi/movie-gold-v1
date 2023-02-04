@@ -1,5 +1,5 @@
 # movie-gold-v1
-Mini React App related to a Spring Boot App
+Mini React App related to a Spring Boot App .
 
 # images : 
 ![React1](https://user-images.githubusercontent.com/67929106/216205605-5b63a742-d56b-4c7d-8f37-f171e875f51a.png)
